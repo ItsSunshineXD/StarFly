@@ -75,5 +75,5 @@ explorer.exe本身会频繁抛出异常（感谢微软屎山代码） 注入VEH�
 - 保证Shellcode只执行一次 进程随后正常运行
 
 ## TO DO
-- [] 移除自研栈欺骗方案 选择MoonWalk++
-- [] 探寻其他shellcode编码加密方式
+- [ ] 移除自研栈欺骗方案 选择MoonWalk++
+- [ ] 探寻其他shellcode编码加密方式
